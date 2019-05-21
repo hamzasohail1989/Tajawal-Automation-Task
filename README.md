@@ -19,6 +19,7 @@ How to Run and Configure Project
 
 
 Conditions
+
 •	Any framework using any programming language (CUCMBER & JAVA)
 
 •	Executable based on dynamic URL (www.tajawal.ae, www.tajawal.com )  (You can change at "/SeleniumCucumberBDDFramework-Final/resources/test-configs.properties)”
@@ -35,6 +36,7 @@ Conditions
 
 
 More Information
+
 •	For Second Scenario the CSV file is created at location “/SeleniumCucumberBDDFramework-Final/Reports/CSVFiles”.
 
 •	Both Scenario’s are running successfully.
