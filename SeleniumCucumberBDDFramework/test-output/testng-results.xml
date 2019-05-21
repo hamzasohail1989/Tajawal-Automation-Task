@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69144" started-at="2019-05-20T23:25:46Z" finished-at="2019-05-20T23:26:55Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@394e1a0f]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="69144" started-at="2019-05-20T23:25:46Z" finished-at="2019-05-20T23:26:55Z">
+      <class name="com.testautomation.TestRunner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner@394e1a0f]" name="setUpClass" is-config="true" duration-ms="157" started-at="2019-05-20T23:25:46Z" finished-at="2019-05-20T23:25:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="FAIL" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.testautomation.TestRunner.TestRunner@394e1a0f]" name="runScenario" duration-ms="68539" started-at="2019-05-20T23:25:46Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2019-05-20T23:26:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Flight Search possitive scenario"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Search Flight"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'HMZ', ip: 'fe80:0:0:0:6f:d91d:de7c:4a4f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'HMZ', ip: 'fe80:0:0:0:6f:d91d:de7c:4a4f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:291)
+at com.testautomation.utility.CommonFunctions.captureScreenShot(CommonFunctions.java:95)
+at com.testautomation.listeners.ExtentReportListener.testStepHandle(ExtentReportListener.java:57)
+at com.testautomation.StepDef.FlightSearchStepDef.enter_Details_of_First_Passenger(FlightSearchStepDef.java:262)
+at ✽.Enter Details of First Passenger "Mr." "Hamza" "Sheikh" "Sohail" "Ms." "Sheikh" "Muhammad" "Ramdan" "myemail@hotmail.com" "80788865"(./features/FlightSearch.feature:17)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.testautomation.TestRunner.TestRunner@394e1a0f]" name="tearDownClass" is-config="true" duration-ms="89" started-at="2019-05-20T23:26:55Z" finished-at="2019-05-20T23:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.testautomation.TestRunner.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

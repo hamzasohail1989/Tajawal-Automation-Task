@@ -1,0 +1,719 @@
+2019-05-21 02:37:08,674 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 02:37:08,784 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 02:39:18,108 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 02:39:18,235 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 02:40:07,575 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 02:40:07,681 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 02:43:01,740 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 02:43:01,850 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 02:44:32,182 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 02:44:32,289 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 02:49:56,688 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 02:49:56,820 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 02:50:18,452 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 02:50:20,140 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 02:50:21,155 INFO  [FlightSearchPage]-[] - 
+2019-05-21 02:50:22,471 INFO  [FlightSearchPage]-[] - 
+2019-05-21 02:50:23,492 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 02:50:24,476 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 02:50:25,151 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 02:50:25,587 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 02:54:58,396 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 02:54:58,548 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 02:55:28,657 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryDhaka
+2019-05-21 02:55:30,356 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryDhaka
+2019-05-21 02:55:31,331 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 02:55:32,682 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 02:55:33,528 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 02:55:34,524 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 02:55:35,243 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 02:55:35,776 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 02:55:36,998 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 02:55:37,884 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 02:55:38,685 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 02:55:39,525 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 03:12:40,163 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 03:12:40,346 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 03:13:37,679 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryRome
+2019-05-21 03:13:39,495 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryRome
+2019-05-21 03:13:40,462 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountryIslamabad
+2019-05-21 03:13:42,304 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountryIslamabad
+2019-05-21 03:13:43,151 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 03:13:44,156 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 03:13:44,942 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 03:13:45,479 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 03:13:46,701 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 03:13:47,583 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 03:13:48,426 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 03:13:49,432 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 03:13:58,162 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 03:14:39,105 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 03:14:39,280 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 03:14:55,043 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 03:14:56,653 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 03:14:57,919 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountryLahore
+2019-05-21 03:15:00,410 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountryLahore
+2019-05-21 03:15:02,241 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 03:15:03,474 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 03:15:04,214 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 03:15:04,669 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 03:15:06,051 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 03:15:06,854 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 03:15:07,781 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 03:15:08,688 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 03:15:17,681 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 03:15:25,470 INFO  [FlightSearchResult]-[] - All Assertions Passed, the flight is as per given input cretiaria
+2019-05-21 03:15:25,775 INFO  [FlightSearchResult]-[] - Going to filter Flight Carriers
+2019-05-21 03:15:25,792 INFO  [FlightSearchResult]-[] - Airlines in ListEK: Emirates
+2019-05-21 03:15:25,792 INFO  [FlightSearchResult]-[] - Going to click emirates airline checkbox
+2019-05-21 03:15:28,485 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 03:15:28,678 INFO  [FlightSearchResult]-[] - Lis size of Airlines14
+2019-05-21 03:15:28,698 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:28,721 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:28,748 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,045 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,102 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,129 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,151 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,170 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,210 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,228 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,263 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,291 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,311 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,354 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,384 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 03:15:29,405 INFO  [FlightSearchResult]-[] - Airlines in ListEY: Etihad Airways
+2019-05-21 03:15:29,501 INFO  [FlightSearchResult]-[] - Airlines in ListRJ: Royal Jordanian
+2019-05-21 03:15:29,515 INFO  [FlightSearchResult]-[] - Airlines in ListWY: Oman Air
+2019-05-21 03:15:29,524 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 03:15:29,591 INFO  [FlightSearchResult]-[] - Lis size of Airlines14
+2019-05-21 03:15:29,603 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,638 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,700 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,723 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,739 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,768 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,794 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,825 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,847 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,876 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,896 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,915 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,946 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,965 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:15:29,972 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 03:15:30,244 INFO  [FlightSearchResult]-[] - Going to select Flight Number
+2019-05-21 03:15:30,262 INFO  [FlightSearchResult]-[] - Going to select Flight Number: 0
+2019-05-21 03:15:30,271 INFO  [FlightSearchResult]-[] - Selecting flight price at index0
+2019-05-21 03:15:30,280 INFO  [FlightSearchResult]-[] - The Price of Selected Flight is12,480
+2019-05-21 03:15:30,281 INFO  [FlightSearchResult]-[] - Going to Select Flight # 1
+2019-05-21 03:46:26,678 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 03:46:26,834 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 03:46:48,782 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryDubai
+2019-05-21 03:46:49,962 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryDubai
+2019-05-21 03:46:50,924 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountryLahore
+2019-05-21 03:46:52,581 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountryLahore
+2019-05-21 03:46:53,388 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 03:46:54,584 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 03:46:55,295 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 03:46:55,812 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 03:46:57,162 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 03:46:57,905 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 03:46:58,605 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 03:46:59,450 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 03:47:13,656 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 03:47:18,320 INFO  [FlightSearchResult]-[] - All Assertions Passed, the flight is as per given input cretiaria
+2019-05-21 03:47:18,616 INFO  [FlightSearchResult]-[] - Going to filter Flight Carriers
+2019-05-21 03:47:18,623 INFO  [FlightSearchResult]-[] - Airlines in ListEK: Emirates
+2019-05-21 03:47:18,624 INFO  [FlightSearchResult]-[] - Going to click emirates airline checkbox
+2019-05-21 03:47:20,329 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 03:47:20,644 INFO  [FlightSearchResult]-[] - Lis size of Airlines2
+2019-05-21 03:47:20,654 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:47:20,672 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:47:20,684 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 03:47:20,697 INFO  [FlightSearchResult]-[] - Airlines in ListEY: Etihad Airways
+2019-05-21 03:47:20,844 INFO  [FlightSearchResult]-[] - Airlines in ListSV: Saudia
+2019-05-21 03:47:20,856 INFO  [FlightSearchResult]-[] - Airlines in ListWY: Oman Air
+2019-05-21 03:47:20,867 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 03:47:20,935 INFO  [FlightSearchResult]-[] - Lis size of Airlines2
+2019-05-21 03:47:20,954 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:47:20,979 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:47:20,990 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 03:47:21,285 INFO  [FlightSearchResult]-[] - Going to select Flight Number
+2019-05-21 03:47:21,327 INFO  [FlightSearchResult]-[] - Going to select Flight Number: 1
+2019-05-21 03:47:21,342 INFO  [FlightSearchResult]-[] - Selecting flight price at index0
+2019-05-21 03:47:21,355 INFO  [FlightSearchResult]-[] - The Price of Selected Flight is3,830
+2019-05-21 03:47:21,355 INFO  [FlightSearchResult]-[] - Going to Select Flight # 1
+2019-05-21 03:47:22,387 INFO  [PassengerDetailPage]-[] - Going to verify the price of Flight
+2019-05-21 03:47:30,857 INFO  [PassengerDetailPage]-[] - serviceCharges 40.00 vatFee 0.00 totalSum 3,870.00
+2019-05-21 03:47:30,858 INFO  [PassengerDetailPage]-[] - Total Charges 40.0
+2019-05-21 03:47:30,858 INFO  [PassengerDetailPage]-[] - Total Price Charged 3870.0
+2019-05-21 03:47:30,858 INFO  [PassengerDetailPage]-[] - Price of Flight Verified
+2019-05-21 03:47:31,086 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 03:47:31,861 INFO  [PassengerDetailPage]-[] - Title Selected Mr.
+2019-05-21 03:47:31,862 INFO  [PassengerDetailPage]-[] - Setting First NameHamza
+2019-05-21 03:47:31,972 INFO  [PassengerDetailPage]-[] - Setting Middle NameSheikh
+2019-05-21 03:47:32,148 INFO  [PassengerDetailPage]-[] - Setting Last NameSohail
+2019-05-21 03:47:32,339 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 03:47:33,102 INFO  [PassengerDetailPage]-[] - Title Selected Ms.
+2019-05-21 03:47:33,102 INFO  [PassengerDetailPage]-[] - Setting First NameSheikh
+2019-05-21 03:47:33,204 INFO  [PassengerDetailPage]-[] - Setting Middle NameMuhammad
+2019-05-21 03:47:33,330 INFO  [PassengerDetailPage]-[] - Setting Last NameRamdan
+2019-05-21 03:47:33,489 INFO  [PassengerDetailPage]-[] - Setting email : myemail@hotmail.com
+2019-05-21 03:47:33,777 INFO  [PassengerDetailPage]-[] - Setting Number : 80788865
+2019-05-21 03:48:53,043 INFO  [ExtentReportListener]-[] - Starting test
+2019-05-21 03:48:53,168 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 03:48:53,293 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 03:48:53,550 INFO  [ExtentReportListener]-[] - Starting Test
+2019-05-21 03:49:15,755 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryKuala Lumpur
+2019-05-21 03:49:17,713 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryKuala Lumpur
+2019-05-21 03:49:18,845 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountrySialkot
+2019-05-21 03:49:20,240 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountrySialkot
+2019-05-21 03:49:21,285 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 03:49:22,324 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 03:49:23,100 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 03:49:23,658 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 03:49:24,977 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 03:49:25,828 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 03:49:26,945 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 03:49:27,875 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 03:49:37,142 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 03:49:44,723 INFO  [FlightSearchResult]-[] - All Assertions Passed, the flight is as per given input cretiaria
+2019-05-21 03:49:44,998 INFO  [FlightSearchResult]-[] - Going to filter Flight Carriers
+2019-05-21 03:49:45,062 INFO  [FlightSearchResult]-[] - Airlines in ListEK: Emirates
+2019-05-21 03:49:45,063 INFO  [FlightSearchResult]-[] - Going to click emirates airline checkbox
+2019-05-21 03:49:47,926 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 03:49:48,159 INFO  [FlightSearchResult]-[] - Lis size of Airlines10
+2019-05-21 03:49:48,170 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,191 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,292 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,369 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,397 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,547 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,561 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,592 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,617 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,635 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,644 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 03:49:48,657 INFO  [FlightSearchResult]-[] - Airlines in ListUL: SriLankan
+2019-05-21 03:49:48,677 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 03:49:48,763 INFO  [FlightSearchResult]-[] - Lis size of Airlines10
+2019-05-21 03:49:48,776 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,800 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,820 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,844 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,869 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,893 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,915 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,937 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,955 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,969 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:49:48,976 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 03:49:49,228 INFO  [FlightSearchResult]-[] - Going to select Flight Number
+2019-05-21 03:49:49,297 INFO  [FlightSearchResult]-[] - Going to select Flight Number: 1
+2019-05-21 03:49:49,309 INFO  [FlightSearchResult]-[] - Selecting flight price at index1
+2019-05-21 03:49:49,317 INFO  [FlightSearchResult]-[] - The Price of Selected Flight is12,100
+2019-05-21 03:49:49,317 INFO  [FlightSearchResult]-[] - Going to select Flight # 2
+2019-05-21 03:49:50,340 INFO  [PassengerDetailPage]-[] - Going to verify the price of Flight
+2019-05-21 03:49:59,168 INFO  [PassengerDetailPage]-[] - serviceCharges 40.00 vatFee 0.00 totalSum 12,140.00
+2019-05-21 03:49:59,168 INFO  [PassengerDetailPage]-[] - Total Charges 40.0
+2019-05-21 03:49:59,168 INFO  [PassengerDetailPage]-[] - Total Price Charged 12140.0
+2019-05-21 03:49:59,168 INFO  [PassengerDetailPage]-[] - Price of Flight Verified
+2019-05-21 03:49:59,411 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 03:50:00,158 INFO  [PassengerDetailPage]-[] - Title Selected Mr.
+2019-05-21 03:50:00,159 INFO  [PassengerDetailPage]-[] - Setting First NameHamza
+2019-05-21 03:50:00,282 INFO  [PassengerDetailPage]-[] - Setting Middle NameSheikh
+2019-05-21 03:50:00,439 INFO  [PassengerDetailPage]-[] - Setting Last NameSohail
+2019-05-21 03:50:00,610 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 03:50:01,335 INFO  [PassengerDetailPage]-[] - Title Selected Ms.
+2019-05-21 03:50:01,336 INFO  [PassengerDetailPage]-[] - Setting First NameSheikh
+2019-05-21 03:50:01,436 INFO  [PassengerDetailPage]-[] - Setting Middle NameMuhammad
+2019-05-21 03:50:01,594 INFO  [PassengerDetailPage]-[] - Setting Last NameRamdan
+2019-05-21 03:50:01,742 INFO  [PassengerDetailPage]-[] - Setting email : myemail@hotmail.com
+2019-05-21 03:50:01,999 INFO  [PassengerDetailPage]-[] - Setting Number : 80788865
+2019-05-21 03:50:02,810 INFO  [ExtentReportListener]-[] - Passed
+2019-05-21 03:50:02,909 INFO  [ExtentReportListener]-[] - Ending
+2019-05-21 03:55:18,185 INFO  [ExtentReportListener]-[] - Starting test
+2019-05-21 03:55:18,323 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 03:55:18,455 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 03:55:18,700 INFO  [ExtentReportListener]-[] - Starting Test
+2019-05-21 03:55:24,050 INFO  [ExtentReportListener]-[] - Test Fail
+2019-05-21 03:55:24,137 INFO  [ExtentReportListener]-[] - Ending
+2019-05-21 03:56:52,009 INFO  [ExtentReportListener]-[] - Starting test
+2019-05-21 03:56:52,131 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 03:56:52,285 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 03:56:52,512 INFO  [ExtentReportListener]-[] - Starting Test
+2019-05-21 03:57:16,246 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryDubai
+2019-05-21 03:57:17,675 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryDubai
+2019-05-21 03:57:18,852 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 03:57:20,228 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 03:57:21,288 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 03:57:22,303 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 03:57:23,056 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 03:57:23,613 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 03:57:25,048 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 03:57:25,773 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 03:57:26,842 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 03:57:27,732 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 03:57:41,417 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 03:57:47,581 INFO  [FlightSearchResult]-[] - All Assertions Passed, the flight is as per given input cretiaria
+2019-05-21 03:57:47,867 INFO  [FlightSearchResult]-[] - Going to filter Flight Carriers
+2019-05-21 03:57:47,880 INFO  [FlightSearchResult]-[] - Airlines in ListEK: Emirates
+2019-05-21 03:57:47,880 INFO  [FlightSearchResult]-[] - Going to click emirates airline checkbox
+2019-05-21 03:57:50,303 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 03:57:50,808 INFO  [FlightSearchResult]-[] - Lis size of Airlines14
+2019-05-21 03:57:50,862 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:50,939 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,164 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,189 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,209 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,231 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,284 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,317 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,359 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,386 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,431 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,468 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,533 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,580 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:51,702 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 03:57:51,770 INFO  [FlightSearchResult]-[] - Airlines in ListEY: Etihad Airways
+2019-05-21 03:57:51,810 INFO  [FlightSearchResult]-[] - Airlines in ListFZ: Flydubai
+2019-05-21 03:57:51,862 INFO  [FlightSearchResult]-[] - Airlines in ListG9: Air Arabia
+2019-05-21 03:57:51,875 INFO  [FlightSearchResult]-[] - Airlines in ListOV: Salam Air
+2019-05-21 03:57:51,913 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 03:57:52,045 INFO  [FlightSearchResult]-[] - Lis size of Airlines14
+2019-05-21 03:57:52,121 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,213 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,324 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,413 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,437 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,465 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,488 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,522 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,565 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,609 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,631 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,649 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,674 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,698 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 03:57:52,707 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 03:57:53,038 INFO  [FlightSearchResult]-[] - Going to select Flight Number
+2019-05-21 03:57:53,061 INFO  [FlightSearchResult]-[] - Going to select Flight Number: 0
+2019-05-21 03:57:53,079 INFO  [FlightSearchResult]-[] - Selecting flight price at index0
+2019-05-21 03:57:53,089 INFO  [FlightSearchResult]-[] - The Price of Selected Flight is3,990
+2019-05-21 03:57:53,089 INFO  [FlightSearchResult]-[] - Going to Select Flight # 1
+2019-05-21 03:57:53,937 INFO  [PassengerDetailPage]-[] - Going to verify the price of Flight
+2019-05-21 03:58:01,996 INFO  [PassengerDetailPage]-[] - serviceCharges 40.00 vatFee 0.00 totalSum 4,030.00
+2019-05-21 03:58:01,996 INFO  [PassengerDetailPage]-[] - Total Charges 40.0
+2019-05-21 03:58:01,996 INFO  [PassengerDetailPage]-[] - Total Price Charged 4030.0
+2019-05-21 03:58:01,996 INFO  [PassengerDetailPage]-[] - Price of Flight Verified
+2019-05-21 03:58:02,236 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 03:58:03,034 INFO  [PassengerDetailPage]-[] - Title Selected Mr.
+2019-05-21 03:58:03,035 INFO  [PassengerDetailPage]-[] - Setting First NameHamza
+2019-05-21 03:58:03,162 INFO  [PassengerDetailPage]-[] - Setting Middle NameSheikh
+2019-05-21 03:58:03,358 INFO  [PassengerDetailPage]-[] - Setting Last NameSohail
+2019-05-21 03:58:03,639 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 03:58:04,359 INFO  [PassengerDetailPage]-[] - Title Selected Ms.
+2019-05-21 03:58:04,359 INFO  [PassengerDetailPage]-[] - Setting First NameSheikh
+2019-05-21 03:58:04,503 INFO  [PassengerDetailPage]-[] - Setting Middle NameMuhammad
+2019-05-21 03:58:04,654 INFO  [PassengerDetailPage]-[] - Setting Last NameRamdan
+2019-05-21 03:58:04,864 INFO  [PassengerDetailPage]-[] - Setting email : myemail@hotmail.com
+2019-05-21 03:58:05,189 INFO  [PassengerDetailPage]-[] - Setting Number : 80788865
+2019-05-21 03:58:11,333 INFO  [ExtentReportListener]-[] - Passed
+2019-05-21 03:58:11,639 INFO  [ExtentReportListener]-[] - Ending
+2019-05-21 04:02:14,325 INFO  [ExtentReportListener]-[] - Starting test
+2019-05-21 04:02:14,451 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 04:02:14,599 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 04:02:14,886 INFO  [ExtentReportListener]-[] - Starting Test
+2019-05-21 04:02:39,724 INFO  [CommonFunctions]-[] - Dubai
+2019-05-21 04:02:39,725 INFO  [CommonFunctions]-[] - Kuala Lumpur
+2019-05-21 04:02:39,727 INFO  [CommonFunctions]-[] - Rome
+2019-05-21 04:02:39,728 INFO  [CommonFunctions]-[] - Bangkok
+2019-05-21 04:02:39,728 INFO  [CommonFunctions]-[] - Dhaka
+2019-05-21 04:02:39,728 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryDubai
+2019-05-21 04:02:40,894 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryDubai
+2019-05-21 04:02:42,247 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:02:42,247 INFO  [CommonFunctions]-[] - Sialkot
+2019-05-21 04:02:42,247 INFO  [CommonFunctions]-[] - Karachi
+2019-05-21 04:02:42,247 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:02:42,247 INFO  [CommonFunctions]-[] - Islamabad
+2019-05-21 04:02:42,248 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 04:02:43,702 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 04:02:44,948 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 04:02:45,512 INFO  [CommonFunctions]-[] - Selected Date is : 21
+2019-05-21 04:02:45,512 INFO  [CommonFunctions]-[] - Return date is 23
+2019-05-21 04:02:46,060 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 04:02:46,921 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 04:02:47,455 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 04:02:48,740 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 04:02:49,478 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 04:02:50,296 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 04:02:51,247 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 04:03:05,309 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 04:03:10,356 INFO  [FlightSearchResult]-[] - All Assertions Passed, the flight is as per given input cretiaria
+2019-05-21 04:03:10,656 INFO  [FlightSearchResult]-[] - Going to filter Flight Carriers
+2019-05-21 04:03:10,672 INFO  [FlightSearchResult]-[] - Airlines in ListEK: Emirates
+2019-05-21 04:03:10,672 INFO  [FlightSearchResult]-[] - Going to click emirates airline checkbox
+2019-05-21 04:03:13,281 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 04:03:13,742 INFO  [FlightSearchResult]-[] - Lis size of Airlines14
+2019-05-21 04:03:13,906 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:13,953 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,018 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,122 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,163 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,205 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,248 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,307 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,368 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,606 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,673 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,701 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,773 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,851 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:14,878 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 04:03:14,890 INFO  [FlightSearchResult]-[] - Airlines in ListFZ: Flydubai
+2019-05-21 04:03:14,899 INFO  [FlightSearchResult]-[] - Airlines in ListG9: Air Arabia
+2019-05-21 04:03:14,976 INFO  [FlightSearchResult]-[] - Airlines in ListGF: Gulf Air
+2019-05-21 04:03:15,092 INFO  [FlightSearchResult]-[] - Airlines in ListUL: SriLankan
+2019-05-21 04:03:15,112 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 04:03:15,204 INFO  [FlightSearchResult]-[] - Lis size of Airlines14
+2019-05-21 04:03:15,215 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,245 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,270 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,295 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,324 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,369 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,414 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,475 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,511 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,544 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,606 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,663 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,695 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,734 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:03:15,753 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 04:03:16,076 INFO  [FlightSearchResult]-[] - Going to select Flight Number
+2019-05-21 04:03:16,106 INFO  [FlightSearchResult]-[] - Going to select Flight Number: 0
+2019-05-21 04:03:16,119 INFO  [FlightSearchResult]-[] - Selecting flight price at index0
+2019-05-21 04:03:16,131 INFO  [FlightSearchResult]-[] - The Price of Selected Flight is3,470
+2019-05-21 04:03:16,131 INFO  [FlightSearchResult]-[] - Going to Select Flight # 1
+2019-05-21 04:03:16,975 INFO  [PassengerDetailPage]-[] - Going to verify the price of Flight
+2019-05-21 04:03:25,852 INFO  [PassengerDetailPage]-[] - serviceCharges 40.00 vatFee 0.00 totalSum 3,510.00
+2019-05-21 04:03:25,853 INFO  [PassengerDetailPage]-[] - Total Charges 40.0
+2019-05-21 04:03:25,853 INFO  [PassengerDetailPage]-[] - Total Price Charged 3510.0
+2019-05-21 04:03:25,853 INFO  [PassengerDetailPage]-[] - Price of Flight Verified
+2019-05-21 04:03:26,122 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 04:03:26,801 INFO  [PassengerDetailPage]-[] - Title Selected Mr.
+2019-05-21 04:03:26,801 INFO  [PassengerDetailPage]-[] - Setting First NameHamza
+2019-05-21 04:03:26,924 INFO  [PassengerDetailPage]-[] - Setting Middle NameSheikh
+2019-05-21 04:03:27,088 INFO  [PassengerDetailPage]-[] - Setting Last NameSohail
+2019-05-21 04:03:27,331 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 04:03:28,059 INFO  [PassengerDetailPage]-[] - Title Selected Ms.
+2019-05-21 04:03:28,060 INFO  [PassengerDetailPage]-[] - Setting First NameSheikh
+2019-05-21 04:03:28,166 INFO  [PassengerDetailPage]-[] - Setting Middle NameMuhammad
+2019-05-21 04:03:28,303 INFO  [PassengerDetailPage]-[] - Setting Last NameRamdan
+2019-05-21 04:03:28,536 INFO  [PassengerDetailPage]-[] - Setting email : myemail@hotmail.com
+2019-05-21 04:03:28,848 INFO  [PassengerDetailPage]-[] - Setting Number : 80788865
+2019-05-21 04:03:34,537 INFO  [PassengerDetailPage]-[] - Verifying that the last page is displayed
+2019-05-21 04:03:34,815 INFO  [PassengerDetailPage]-[] - Last page displayed, now ending the test run
+2019-05-21 04:03:35,256 INFO  [ExtentReportListener]-[] - Passed
+2019-05-21 04:03:35,615 INFO  [ExtentReportListener]-[] - Ending
+2019-05-21 04:13:00,385 INFO  [ExtentReportListener]-[] - Starting test
+2019-05-21 04:13:00,485 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 04:13:00,609 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 04:13:00,827 INFO  [ExtentReportListener]-[] - Starting Test
+2019-05-21 04:13:28,225 INFO  [CommonFunctions]-[] - Dubai
+2019-05-21 04:13:28,225 INFO  [CommonFunctions]-[] - Kuala Lumpur
+2019-05-21 04:13:28,225 INFO  [CommonFunctions]-[] - Rome
+2019-05-21 04:13:28,225 INFO  [CommonFunctions]-[] - Bangkok
+2019-05-21 04:13:28,225 INFO  [CommonFunctions]-[] - Dhaka
+2019-05-21 04:13:28,225 INFO  [FlightSearchPage]-[] - Verifying the correct page os displayed
+2019-05-21 04:13:28,285 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 04:13:29,952 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 04:13:31,203 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:13:31,203 INFO  [CommonFunctions]-[] - Sialkot
+2019-05-21 04:13:31,204 INFO  [CommonFunctions]-[] - Karachi
+2019-05-21 04:13:31,204 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:13:31,204 INFO  [CommonFunctions]-[] - Islamabad
+2019-05-21 04:13:31,204 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 04:13:32,628 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 04:13:33,894 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 04:13:34,603 INFO  [CommonFunctions]-[] - Selected Date is : 19
+2019-05-21 04:13:34,604 INFO  [CommonFunctions]-[] - Return date is 21
+2019-05-21 04:13:35,127 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 04:13:36,084 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 04:13:36,565 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 04:13:37,793 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 04:13:38,637 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 04:13:39,507 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 04:13:40,495 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 04:13:56,643 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 04:14:03,980 INFO  [FlightSearchResult]-[] - All Assertions Passed, the flight is as per given input cretiaria
+2019-05-21 04:14:04,324 INFO  [FlightSearchResult]-[] - Going to filter Flight Carriers
+2019-05-21 04:14:04,337 INFO  [FlightSearchResult]-[] - Airlines in ListCA: Air China
+2019-05-21 04:14:04,348 INFO  [FlightSearchResult]-[] - Airlines in ListEK: Emirates
+2019-05-21 04:14:04,348 INFO  [FlightSearchResult]-[] - Going to click emirates airline checkbox
+2019-05-21 04:14:06,972 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 04:14:07,306 INFO  [FlightSearchResult]-[] - Lis size of Airlines14
+2019-05-21 04:14:07,448 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,491 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,513 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,540 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,564 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,588 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,609 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,629 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,649 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,673 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,693 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,727 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,748 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,770 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:07,781 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 04:14:07,790 INFO  [FlightSearchResult]-[] - Airlines in ListTG: Thai Airways International
+2019-05-21 04:14:07,798 INFO  [FlightSearchResult]-[] - Airlines in ListUL: SriLankan
+2019-05-21 04:14:07,807 INFO  [FlightSearchResult]-[] - Airlines in ListWY: Oman Air
+2019-05-21 04:14:07,818 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 04:14:07,877 INFO  [FlightSearchResult]-[] - Lis size of Airlines14
+2019-05-21 04:14:08,049 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,073 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,096 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,119 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,139 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,160 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,180 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,201 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,223 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,250 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,282 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,328 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,500 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,524 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:14:08,537 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 04:14:08,803 INFO  [FlightSearchResult]-[] - Going to select Flight Number
+2019-05-21 04:14:08,846 INFO  [FlightSearchResult]-[] - Going to select Flight Number: 0
+2019-05-21 04:14:08,857 INFO  [FlightSearchResult]-[] - Selecting flight price at index0
+2019-05-21 04:14:08,867 INFO  [FlightSearchResult]-[] - The Price of Selected Flight is11,380
+2019-05-21 04:14:08,868 INFO  [FlightSearchResult]-[] - Going to Select Flight # 1
+2019-05-21 04:14:09,697 INFO  [PassengerDetailPage]-[] - Going to verify the price of Flight
+2019-05-21 04:14:18,608 INFO  [PassengerDetailPage]-[] - serviceCharges 40.00 vatFee 0.00 totalSum 11,420.00
+2019-05-21 04:14:18,608 INFO  [PassengerDetailPage]-[] - Total Charges 40.0
+2019-05-21 04:14:18,608 INFO  [PassengerDetailPage]-[] - Total Price Charged 11420.0
+2019-05-21 04:14:18,608 INFO  [PassengerDetailPage]-[] - Price of Flight Verified
+2019-05-21 04:14:18,844 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 04:14:19,694 INFO  [PassengerDetailPage]-[] - Title Selected Mr.
+2019-05-21 04:14:19,694 INFO  [PassengerDetailPage]-[] - Setting First NameHamza
+2019-05-21 04:14:19,795 INFO  [PassengerDetailPage]-[] - Setting Middle NameSheikh
+2019-05-21 04:14:19,982 INFO  [PassengerDetailPage]-[] - Setting Last NameSohail
+2019-05-21 04:14:20,141 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 04:14:20,871 INFO  [PassengerDetailPage]-[] - Title Selected Ms.
+2019-05-21 04:14:20,871 INFO  [PassengerDetailPage]-[] - Setting First NameSheikh
+2019-05-21 04:14:20,977 INFO  [PassengerDetailPage]-[] - Setting Middle NameMuhammad
+2019-05-21 04:14:21,098 INFO  [PassengerDetailPage]-[] - Setting Last NameRamdan
+2019-05-21 04:14:21,242 INFO  [PassengerDetailPage]-[] - Setting email : myemail@hotmail.com
+2019-05-21 04:14:21,511 INFO  [PassengerDetailPage]-[] - Setting Number : 80788865
+2019-05-21 04:14:27,076 INFO  [PassengerDetailPage]-[] - Verifying that the last page is displayed
+2019-05-21 04:14:27,279 INFO  [PassengerDetailPage]-[] - Last page displayed, now ending the test run
+2019-05-21 04:14:27,750 INFO  [ExtentReportListener]-[] - Passed
+2019-05-21 04:14:27,947 INFO  [ExtentReportListener]-[] - Ending
+2019-05-21 04:21:30,657 INFO  [ExtentReportListener]-[] - Starting test
+2019-05-21 04:21:30,834 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 04:21:30,998 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 04:21:31,278 INFO  [ExtentReportListener]-[] - Starting Test
+2019-05-21 04:21:55,707 INFO  [CommonFunctions]-[] - Dubai
+2019-05-21 04:21:55,707 INFO  [CommonFunctions]-[] - Kuala Lumpur
+2019-05-21 04:21:55,707 INFO  [CommonFunctions]-[] - Rome
+2019-05-21 04:21:55,708 INFO  [CommonFunctions]-[] - Bangkok
+2019-05-21 04:21:55,708 INFO  [CommonFunctions]-[] - Dhaka
+2019-05-21 04:21:55,708 INFO  [FlightSearchPage]-[] - Verifying the correct page os displayed
+2019-05-21 04:21:55,888 INFO  [FlightSearchPage]-[] - verifying and clicking Round Trip Button
+2019-05-21 04:21:57,339 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryDhaka
+2019-05-21 04:22:00,613 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryDhaka
+2019-05-21 04:22:01,655 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:22:01,655 INFO  [CommonFunctions]-[] - Sialkot
+2019-05-21 04:22:01,655 INFO  [CommonFunctions]-[] - Karachi
+2019-05-21 04:22:01,655 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:22:01,655 INFO  [CommonFunctions]-[] - Islamabad
+2019-05-21 04:22:01,655 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountrySialkot
+2019-05-21 04:22:03,021 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountrySialkot
+2019-05-21 04:22:03,886 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 04:22:04,379 INFO  [CommonFunctions]-[] - Selected Date is : 17
+2019-05-21 04:22:04,379 INFO  [CommonFunctions]-[] - Return date is 19
+2019-05-21 04:22:04,882 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 04:22:05,774 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 04:22:06,413 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 04:22:07,738 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 04:22:08,584 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 04:22:09,396 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 04:22:10,424 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 04:22:24,106 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 04:22:45,491 INFO  [ExtentReportListener]-[] - Test Fail
+2019-05-21 04:22:45,752 INFO  [ExtentReportListener]-[] - Ending
+2019-05-21 04:23:50,662 INFO  [ExtentReportListener]-[] - Starting test
+2019-05-21 04:23:50,814 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 04:23:50,954 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 04:23:51,205 INFO  [ExtentReportListener]-[] - Starting Test
+2019-05-21 04:24:15,891 INFO  [CommonFunctions]-[] - Dubai
+2019-05-21 04:24:15,891 INFO  [CommonFunctions]-[] - Kuala Lumpur
+2019-05-21 04:24:15,891 INFO  [CommonFunctions]-[] - Rome
+2019-05-21 04:24:15,892 INFO  [CommonFunctions]-[] - Bangkok
+2019-05-21 04:24:15,892 INFO  [CommonFunctions]-[] - Dhaka
+2019-05-21 04:24:15,892 INFO  [FlightSearchPage]-[] - Verifying the correct page os displayed
+2019-05-21 04:24:16,056 INFO  [FlightSearchPage]-[] - verifying and clicking Round Trip Button
+2019-05-21 04:24:16,602 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 04:24:18,470 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 04:24:19,520 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:24:19,521 INFO  [CommonFunctions]-[] - Sialkot
+2019-05-21 04:24:19,521 INFO  [CommonFunctions]-[] - Karachi
+2019-05-21 04:24:19,521 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:24:19,521 INFO  [CommonFunctions]-[] - Islamabad
+2019-05-21 04:24:19,521 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountrySialkot
+2019-05-21 04:24:20,917 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountrySialkot
+2019-05-21 04:24:21,880 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 04:24:22,445 INFO  [CommonFunctions]-[] - After appending date is 02
+2019-05-21 04:24:22,446 INFO  [CommonFunctions]-[] - Selected Date is : 02
+2019-05-21 04:24:22,446 INFO  [CommonFunctions]-[] - Return date is 03
+2019-05-21 04:24:23,157 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 04:24:24,112 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 04:24:24,715 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 04:24:26,405 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 04:24:27,267 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 04:24:28,404 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 04:24:29,474 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 04:24:45,299 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 04:24:55,599 INFO  [FlightSearchResult]-[] - All Assertions Passed, the flight is as per given input cretiaria
+2019-05-21 04:24:55,920 INFO  [FlightSearchResult]-[] - Going to filter Flight Carriers
+2019-05-21 04:24:55,932 INFO  [FlightSearchResult]-[] - Airlines in ListEK: Emirates
+2019-05-21 04:24:55,932 INFO  [FlightSearchResult]-[] - Going to click emirates airline checkbox
+2019-05-21 04:24:57,700 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 04:24:58,170 INFO  [FlightSearchResult]-[] - Lis size of Airlines10
+2019-05-21 04:24:58,398 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,433 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,459 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,485 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,513 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,538 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,567 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,602 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,656 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,692 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,743 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 04:24:58,757 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 04:24:58,822 INFO  [FlightSearchResult]-[] - Lis size of Airlines10
+2019-05-21 04:24:58,837 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,867 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,901 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,924 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,953 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:58,990 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:59,022 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:59,073 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:59,114 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:59,147 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:24:59,172 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 04:24:59,536 INFO  [FlightSearchResult]-[] - Going to select Flight Number
+2019-05-21 04:24:59,562 INFO  [FlightSearchResult]-[] - Going to select Flight Number: 0
+2019-05-21 04:24:59,574 INFO  [FlightSearchResult]-[] - Selecting flight price at index0
+2019-05-21 04:24:59,586 INFO  [FlightSearchResult]-[] - The Price of Selected Flight is11,860
+2019-05-21 04:24:59,586 INFO  [FlightSearchResult]-[] - Going to Select Flight # 1
+2019-05-21 04:25:00,406 INFO  [PassengerDetailPage]-[] - Going to verify the price of Flight
+2019-05-21 04:25:11,807 INFO  [PassengerDetailPage]-[] - serviceCharges 40.00 vatFee 0.00 totalSum 11,900.00
+2019-05-21 04:25:11,807 INFO  [PassengerDetailPage]-[] - Total Charges 40.0
+2019-05-21 04:25:11,808 INFO  [PassengerDetailPage]-[] - Total Price Charged 11900.0
+2019-05-21 04:25:11,808 INFO  [PassengerDetailPage]-[] - Price of Flight Verified
+2019-05-21 04:25:12,061 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 04:25:12,752 INFO  [PassengerDetailPage]-[] - Title Selected Mr.
+2019-05-21 04:25:12,752 INFO  [PassengerDetailPage]-[] - Setting First NameHamza
+2019-05-21 04:25:12,887 INFO  [PassengerDetailPage]-[] - Setting Middle NameSheikh
+2019-05-21 04:25:13,064 INFO  [PassengerDetailPage]-[] - Setting Last NameSohail
+2019-05-21 04:25:13,362 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 04:25:14,062 INFO  [PassengerDetailPage]-[] - Title Selected Ms.
+2019-05-21 04:25:14,062 INFO  [PassengerDetailPage]-[] - Setting First NameSheikh
+2019-05-21 04:25:14,170 INFO  [PassengerDetailPage]-[] - Setting Middle NameMuhammad
+2019-05-21 04:25:14,338 INFO  [PassengerDetailPage]-[] - Setting Last NameRamdan
+2019-05-21 04:25:14,546 INFO  [PassengerDetailPage]-[] - Setting email : myemail@hotmail.com
+2019-05-21 04:25:14,918 INFO  [PassengerDetailPage]-[] - Setting Number : 80788865
+2019-05-21 04:25:21,268 INFO  [PassengerDetailPage]-[] - Verifying that the last page is displayed
+2019-05-21 04:25:21,533 INFO  [PassengerDetailPage]-[] - Last page displayed, now ending the test run
+2019-05-21 04:25:21,944 INFO  [ExtentReportListener]-[] - Passed
+2019-05-21 04:25:22,219 INFO  [ExtentReportListener]-[] - Ending
+2019-05-21 04:25:46,383 INFO  [ExtentReportListener]-[] - Starting test
+2019-05-21 04:25:46,518 INFO  [ExtentReportListener]-[] - Extent Report location initialized . . .
+2019-05-21 04:25:46,665 INFO  [ExtentReportListener]-[] - System Info. set in Extent Report
+2019-05-21 04:25:46,898 INFO  [ExtentReportListener]-[] - Starting Test
+2019-05-21 04:26:07,353 INFO  [CommonFunctions]-[] - Dubai
+2019-05-21 04:26:07,354 INFO  [CommonFunctions]-[] - Kuala Lumpur
+2019-05-21 04:26:07,354 INFO  [CommonFunctions]-[] - Rome
+2019-05-21 04:26:07,354 INFO  [CommonFunctions]-[] - Bangkok
+2019-05-21 04:26:07,354 INFO  [CommonFunctions]-[] - Dhaka
+2019-05-21 04:26:07,354 INFO  [FlightSearchPage]-[] - Verifying the correct page os displayed
+2019-05-21 04:26:07,412 INFO  [FlightSearchPage]-[] - verifying and clicking Round Trip Button
+2019-05-21 04:26:07,684 INFO  [FlightSearchPage]-[] - Going to find the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 04:26:09,626 INFO  [FlightSearchPage]-[] - Entered the location of Element Origin Field & Enters the Randomly Selected CountryBangkok
+2019-05-21 04:26:10,933 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:26:10,933 INFO  [CommonFunctions]-[] - Sialkot
+2019-05-21 04:26:10,933 INFO  [CommonFunctions]-[] - Karachi
+2019-05-21 04:26:10,933 INFO  [CommonFunctions]-[] - Lahore
+2019-05-21 04:26:10,933 INFO  [CommonFunctions]-[] - Islamabad
+2019-05-21 04:26:10,933 INFO  [FlightSearchPage]-[] - Going to find the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 04:26:12,458 INFO  [FlightSearchPage]-[] - Entered the location of Element Destination Field & Enters the Randomly Selected CountryKarachi
+2019-05-21 04:26:13,687 INFO  [FlightSearchPage]-[] - Going to Select Departure Date
+2019-05-21 04:26:13,948 INFO  [CommonFunctions]-[] - After appending date is 09
+2019-05-21 04:26:13,948 INFO  [CommonFunctions]-[] - Selected Date is : 09
+2019-05-21 04:26:13,948 INFO  [CommonFunctions]-[] - Return date is 11
+2019-05-21 04:26:14,366 INFO  [FlightSearchPage]-[] - Departure Date Selected
+2019-05-21 04:26:15,494 INFO  [FlightSearchPage]-[] - Going to Select Arrival Date
+2019-05-21 04:26:15,862 INFO  [FlightSearchPage]-[] - Arrival Date Selected
+2019-05-21 04:26:17,687 INFO  [FlightSearchPage]-[] - Going to set passenger count as :2
+2019-05-21 04:26:18,313 INFO  [FlightSearchPage]-[] - Passenger count is set as :2
+2019-05-21 04:26:19,689 INFO  [FlightSearchPage]-[] - Going to set cabin class as :Economy
+2019-05-21 04:26:20,655 INFO  [FlightSearchPage]-[] - Cabin Class is set as :Economy
+2019-05-21 04:26:30,144 INFO  [FlightSearchResult]-[] - Going to verify search results
+2019-05-21 04:26:37,628 INFO  [FlightSearchResult]-[] - All Assertions Passed, the flight is as per given input cretiaria
+2019-05-21 04:26:38,215 INFO  [FlightSearchResult]-[] - Going to filter Flight Carriers
+2019-05-21 04:26:38,680 INFO  [FlightSearchResult]-[] - Airlines in ListCA: Air China
+2019-05-21 04:26:38,694 INFO  [FlightSearchResult]-[] - Airlines in ListEK: Emirates
+2019-05-21 04:26:38,694 INFO  [FlightSearchResult]-[] - Going to click emirates airline checkbox
+2019-05-21 04:26:41,508 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 04:26:42,003 INFO  [FlightSearchResult]-[] - Lis size of Airlines10
+2019-05-21 04:26:42,025 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,053 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,107 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,147 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,203 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,405 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,428 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,453 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,522 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,593 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,616 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 04:26:42,634 INFO  [FlightSearchResult]-[] - Airlines in ListTG: Thai Airways International
+2019-05-21 04:26:42,661 INFO  [FlightSearchResult]-[] - Airlines in ListUL: SriLankan
+2019-05-21 04:26:42,759 INFO  [FlightSearchResult]-[] - Airlines in ListWY: Oman Air
+2019-05-21 04:26:42,787 INFO  [FlightSearchResult]-[] - Verifying list of airlines
+2019-05-21 04:26:42,838 INFO  [FlightSearchResult]-[] - Lis size of Airlines10
+2019-05-21 04:26:42,853 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,885 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,906 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,928 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,949 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:42,983 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:43,008 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:43,035 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:43,062 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:43,103 INFO  [FlightSearchResult]-[] - Visible List of AirlineEmirates
+2019-05-21 04:26:43,116 INFO  [FlightSearchResult]-[] - List contains only selected Carrier Flights
+2019-05-21 04:26:43,630 INFO  [FlightSearchResult]-[] - Going to select Flight Number
+2019-05-21 04:26:43,650 INFO  [FlightSearchResult]-[] - Going to select Flight Number: 1
+2019-05-21 04:26:43,665 INFO  [FlightSearchResult]-[] - Selecting flight price at index1
+2019-05-21 04:26:43,695 INFO  [FlightSearchResult]-[] - The Price of Selected Flight is11,620
+2019-05-21 04:26:43,695 INFO  [FlightSearchResult]-[] - Going to select Flight # 2
+2019-05-21 04:26:44,930 INFO  [PassengerDetailPage]-[] - Going to verify the price of Flight
+2019-05-21 04:26:54,555 INFO  [PassengerDetailPage]-[] - serviceCharges 40.00 vatFee 0.00 totalSum 12,140.00
+2019-05-21 04:26:54,556 INFO  [PassengerDetailPage]-[] - Total Charges 40.0
+2019-05-21 04:26:54,556 INFO  [PassengerDetailPage]-[] - Total Price Charged 12140.0
+2019-05-21 04:26:55,418 INFO  [PassengerDetailPage]-[] - Selecting Title
+2019-05-21 04:26:55,431 INFO  [ExtentReportListener]-[] - Test Fail
+2019-05-21 04:26:55,558 INFO  [ExtentReportListener]-[] - Ending
