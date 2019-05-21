@@ -2,7 +2,9 @@ How to Run and Configure Project
 
 
 •	To run the application clone the project and import project in any compiler such as Eclipse IDE, and click on testing.xml file at location “/SeleniumCucumberBDDFramework-Final/testng.xml” and run as TESTNG.
+
 •	Project is using maven to download dependencies.
+
 •	You need to set the Operating system and also the browser driver.
 •	Change the OS and browser name in the file “/SeleniumCucumberBDDFramework-Final/resources/test-configs.properties)”.
 •	Location of all drivers is at “/SeleniumCucumberBDDFramework-Final/Driver/ “
